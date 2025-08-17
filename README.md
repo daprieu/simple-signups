@@ -1,4 +1,4 @@
-#Simple Signups
+# Simple Signups
 
 An app for creating and building simpler signup sheets. Signup sheets in my opinion should be simple, you want a to create a sheet, you want to add items, you want invitees to select items to signup for. Nothing more nothing less.
 
