@@ -1,3 +1,7 @@
+#Simple Signups
+
+An app for creating and building simpler signup sheets. Signup sheets in my opinion should be simple, you want a to create a sheet, you want to add items, you want invitees to select items to signup for. Nothing more nothing less.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
